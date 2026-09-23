@@ -1,0 +1,351 @@
+Customer ID,Gender,Age,City,Membership Type,Total Spend,Items Purchased,Average Rating,Discount Applied,Days Since Last Purchase,Satisfaction Level,Average Order Value,Age Group,Customer Status
+101,Female,29,New York,Gold,1120.2,14,4.6,Yes,25,Satisfied,80.01,25-34,Active
+102,Male,34,Los Angeles,Silver,780.5,11,4.1,No,18,Neutral,70.95,25-34,Active
+103,Female,43,Chicago,Bronze,510.75,9,3.4,Yes,42,Unsatisfied,56.75,35-49,At Risk
+104,Male,30,San Francisco,Gold,1480.3,19,4.7,No,12,Satisfied,77.91,25-34,Active
+105,Male,27,Miami,Silver,720.4,13,4.0,Yes,55,Unsatisfied,55.42,25-34,At Risk
+106,Female,37,Houston,Bronze,440.8,8,3.1,No,22,Neutral,55.1,35-49,Active
+107,Female,31,New York,Gold,1150.6,15,4.5,Yes,28,Satisfied,76.71,25-34,Active
+108,Male,35,Los Angeles,Silver,800.9,12,4.2,No,14,Neutral,66.74,25-34,Active
+109,Female,41,Chicago,Bronze,495.25,10,3.6,Yes,40,Unsatisfied,49.52,35-49,At Risk
+110,Male,28,San Francisco,Gold,1520.1,21,4.8,No,9,Satisfied,72.39,25-34,Active
+111,Male,32,Miami,Silver,690.3,11,3.8,Yes,34,Unsatisfied,62.75,25-34,At Risk
+112,Female,36,Houston,Bronze,470.5,7,3.2,No,20,Neutral,67.21,35-49,Active
+113,Female,30,New York,Gold,1200.8,16,4.3,Yes,21,Satisfied,75.05,25-34,Active
+114,Male,33,Los Angeles,Silver,820.75,13,4.4,No,15,Satisfied,63.13,25-34,Active
+115,Female,42,Chicago,Bronze,530.4,9,3.5,Yes,38,Unsatisfied,58.93,35-49,At Risk
+116,Male,29,San Francisco,Gold,1360.2,18,4.9,No,11,Satisfied,75.57,25-34,Active
+117,Male,26,Miami,Silver,700.6,12,3.7,Yes,48,Unsatisfied,58.38,25-34,At Risk
+118,Female,38,Houston,Bronze,450.9,8,3.0,No,25,Neutral,56.36,35-49,Active
+119,Female,32,New York,Gold,1170.3,14,4.7,Yes,29,Satisfied,83.59,25-34,Active
+120,Male,34,Los Angeles,Silver,790.2,11,4.0,No,16,Neutral,71.84,25-34,Active
+121,Female,43,Chicago,Bronze,505.75,10,3.3,Yes,41,Unsatisfied,50.58,35-49,At Risk
+122,Male,30,San Francisco,Gold,1470.5,20,4.8,No,13,Satisfied,73.53,25-34,Active
+123,Male,27,Miami,Silver,710.4,13,4.1,Yes,54,Unsatisfied,54.65,25-34,At Risk
+124,Female,37,Houston,Bronze,430.8,7,3.4,No,23,Neutral,61.54,35-49,Active
+125,Female,31,New York,Gold,1140.6,15,4.6,Yes,27,Satisfied,76.04,25-34,Active
+126,Male,35,Los Angeles,Silver,810.9,12,4.3,No,13,Neutral,67.58,25-34,Active
+127,Female,41,Chicago,Bronze,485.25,9,3.6,Yes,39,Unsatisfied,53.92,35-49,At Risk
+128,Male,28,San Francisco,Gold,1500.1,21,4.9,No,10,Satisfied,71.43,25-34,Active
+129,Male,32,Miami,Silver,670.3,10,3.8,Yes,33,Unsatisfied,67.03,25-34,At Risk
+130,Female,36,Houston,Bronze,460.5,8,3.1,No,19,Neutral,57.56,35-49,Active
+131,Female,30,New York,Gold,1190.8,16,4.5,Yes,20,Satisfied,74.42,25-34,Active
+132,Male,33,Los Angeles,Silver,830.75,13,4.2,No,14,Satisfied,63.9,25-34,Active
+133,Female,42,Chicago,Bronze,520.4,9,3.5,Yes,37,Unsatisfied,57.82,35-49,At Risk
+134,Male,29,San Francisco,Gold,1370.2,18,4.7,No,10,Satisfied,76.12,25-34,Active
+135,Male,26,Miami,Silver,690.6,12,3.9,Yes,47,Unsatisfied,57.55,25-34,At Risk
+136,Female,38,Houston,Bronze,440.9,8,3.2,No,24,Neutral,55.11,35-49,Active
+137,Female,32,New York,Gold,1160.3,14,4.4,Yes,22,Satisfied,82.88,25-34,Active
+138,Male,34,Los Angeles,Silver,800.2,11,4.1,No,17,Neutral,72.75,25-34,Active
+139,Female,43,Chicago,Bronze,500.75,10,3.3,Yes,40,Unsatisfied,50.08,35-49,At Risk
+140,Male,30,San Francisco,Gold,1460.5,20,4.8,No,12,Satisfied,73.03,25-34,Active
+141,Male,27,Miami,Silver,700.4,13,4.0,Yes,53,Unsatisfied,53.88,25-34,At Risk
+142,Female,37,Houston,Bronze,420.8,7,3.1,No,21,Neutral,60.11,35-49,Active
+143,Female,31,New York,Gold,1130.6,15,4.5,Yes,26,Satisfied,75.37,25-34,Active
+144,Male,35,Los Angeles,Silver,820.9,12,4.3,No,12,Neutral,68.41,25-34,Active
+145,Female,41,Chicago,Bronze,480.25,9,3.6,Yes,38,Unsatisfied,53.36,35-49,At Risk
+146,Male,28,San Francisco,Gold,1490.1,21,4.9,No,9,Satisfied,70.96,25-34,Active
+147,Male,32,Miami,Silver,680.3,10,3.8,Yes,32,Unsatisfied,68.03,25-34,At Risk
+148,Female,36,Houston,Bronze,470.5,8,3.0,No,18,Neutral,58.81,35-49,Active
+149,Female,30,New York,Gold,1180.8,16,4.7,Yes,19,Satisfied,73.8,25-34,Active
+150,Male,34,Los Angeles,Silver,790.2,11,4.0,No,15,Neutral,71.84,25-34,Active
+151,Female,43,Chicago,Bronze,505.75,10,3.3,Yes,39,Unsatisfied,50.58,35-49,At Risk
+152,Male,30,San Francisco,Gold,1470.5,20,4.8,No,13,Satisfied,73.53,25-34,Active
+153,Male,27,Miami,Silver,710.4,13,4.1,Yes,54,Unsatisfied,54.65,25-34,At Risk
+154,Female,37,Houston,Bronze,430.8,7,3.4,No,23,Neutral,61.54,35-49,Active
+155,Female,31,New York,Gold,1140.6,15,4.6,Yes,27,Satisfied,76.04,25-34,Active
+156,Male,35,Los Angeles,Silver,810.9,12,4.3,No,13,Neutral,67.58,25-34,Active
+157,Female,41,Chicago,Bronze,485.25,9,3.6,Yes,39,Unsatisfied,53.92,35-49,At Risk
+158,Male,28,San Francisco,Gold,1500.1,21,4.9,No,10,Satisfied,71.43,25-34,Active
+159,Male,32,Miami,Silver,670.3,10,3.8,Yes,33,Unsatisfied,67.03,25-34,At Risk
+160,Female,36,Houston,Bronze,460.5,8,3.1,No,19,Neutral,57.56,35-49,Active
+161,Female,30,New York,Gold,1190.8,16,4.5,Yes,20,Satisfied,74.42,25-34,Active
+162,Male,33,Los Angeles,Silver,830.75,13,4.2,No,14,Satisfied,63.9,25-34,Active
+163,Female,42,Chicago,Bronze,520.4,9,3.5,Yes,37,Unsatisfied,57.82,35-49,At Risk
+164,Male,29,San Francisco,Gold,1370.2,18,4.7,No,10,Satisfied,76.12,25-34,Active
+165,Male,26,Miami,Silver,690.6,12,3.9,Yes,47,Unsatisfied,57.55,25-34,At Risk
+166,Female,38,Houston,Bronze,440.9,8,3.2,No,24,Neutral,55.11,35-49,Active
+167,Female,32,New York,Gold,1160.3,14,4.4,Yes,22,Satisfied,82.88,25-34,Active
+168,Male,34,Los Angeles,Silver,800.2,11,4.1,No,17,Neutral,72.75,25-34,Active
+169,Female,43,Chicago,Bronze,500.75,10,3.3,Yes,40,Unsatisfied,50.08,35-49,At Risk
+170,Male,30,San Francisco,Gold,1460.5,20,4.8,No,12,Satisfied,73.03,25-34,Active
+171,Male,27,Miami,Silver,700.4,13,4.0,Yes,53,Unsatisfied,53.88,25-34,At Risk
+172,Female,37,Houston,Bronze,420.8,7,3.1,No,21,Neutral,60.11,35-49,Active
+173,Female,31,New York,Gold,1130.6,15,4.5,Yes,26,Satisfied,75.37,25-34,Active
+174,Male,35,Los Angeles,Silver,820.9,12,4.3,No,12,Neutral,68.41,25-34,Active
+175,Female,41,Chicago,Bronze,480.25,9,3.6,Yes,38,Unsatisfied,53.36,35-49,At Risk
+176,Male,28,San Francisco,Gold,1490.1,21,4.9,No,9,Satisfied,70.96,25-34,Active
+177,Male,32,Miami,Silver,680.3,10,3.8,Yes,32,Unsatisfied,68.03,25-34,At Risk
+178,Female,36,Houston,Bronze,470.5,8,3.0,No,18,Neutral,58.81,35-49,Active
+179,Female,30,New York,Gold,1180.8,16,4.7,Yes,19,Satisfied,73.8,25-34,Active
+180,Male,34,Los Angeles,Silver,790.2,11,4.0,No,15,Neutral,71.84,25-34,Active
+181,Female,43,Chicago,Bronze,505.75,10,3.3,Yes,39,Unsatisfied,50.58,35-49,At Risk
+182,Male,30,San Francisco,Gold,1470.5,20,4.8,No,13,Satisfied,73.53,25-34,Active
+183,Male,27,Miami,Silver,710.4,13,4.1,Yes,54,Unsatisfied,54.65,25-34,At Risk
+184,Female,37,Houston,Bronze,430.8,7,3.4,No,23,Neutral,61.54,35-49,Active
+185,Female,31,New York,Gold,1140.6,15,4.6,Yes,27,Satisfied,76.04,25-34,Active
+186,Male,35,Los Angeles,Silver,810.9,12,4.3,No,13,Neutral,67.58,25-34,Active
+187,Female,41,Chicago,Bronze,485.25,9,3.6,Yes,39,Unsatisfied,53.92,35-49,At Risk
+188,Male,28,San Francisco,Gold,1500.1,21,4.9,No,10,Satisfied,71.43,25-34,Active
+189,Male,32,Miami,Silver,670.3,10,3.8,Yes,33,Unsatisfied,67.03,25-34,At Risk
+190,Female,36,Houston,Bronze,460.5,8,3.1,No,19,Neutral,57.56,35-49,Active
+191,Female,30,New York,Gold,1190.8,16,4.5,Yes,20,Satisfied,74.42,25-34,Active
+192,Male,33,Los Angeles,Silver,830.75,13,4.2,No,14,Satisfied,63.9,25-34,Active
+193,Female,42,Chicago,Bronze,520.4,9,3.5,Yes,37,Unsatisfied,57.82,35-49,At Risk
+194,Male,29,San Francisco,Gold,1370.2,18,4.7,No,10,Satisfied,76.12,25-34,Active
+195,Male,26,Miami,Silver,690.6,12,3.9,Yes,47,Unsatisfied,57.55,25-34,At Risk
+196,Female,38,Houston,Bronze,440.9,8,3.2,No,24,Neutral,55.11,35-49,Active
+197,Female,32,New York,Gold,1160.3,14,4.4,Yes,22,Satisfied,82.88,25-34,Active
+198,Male,34,Los Angeles,Silver,800.2,11,4.1,No,17,Neutral,72.75,25-34,Active
+199,Female,43,Chicago,Bronze,500.75,10,3.3,Yes,40,Unsatisfied,50.08,35-49,At Risk
+200,Male,30,San Francisco,Gold,1460.5,20,4.8,No,12,Satisfied,73.03,25-34,Active
+201,Male,27,Miami,Silver,700.4,13,4.0,Yes,53,Unsatisfied,53.88,25-34,At Risk
+202,Female,37,Houston,Bronze,420.8,7,3.1,No,21,Neutral,60.11,35-49,Active
+203,Female,31,New York,Gold,1130.6,15,4.5,Yes,26,Satisfied,75.37,25-34,Active
+204,Male,35,Los Angeles,Silver,820.9,12,4.3,No,12,Neutral,68.41,25-34,Active
+205,Female,41,Chicago,Bronze,480.25,9,3.6,Yes,38,Unsatisfied,53.36,35-49,At Risk
+206,Male,28,San Francisco,Gold,1490.1,21,4.9,No,9,Satisfied,70.96,25-34,Active
+207,Male,32,Miami,Silver,680.3,10,3.8,Yes,32,Unsatisfied,68.03,25-34,At Risk
+208,Female,36,Houston,Bronze,470.5,8,3.0,No,18,Neutral,58.81,35-49,Active
+209,Female,30,New York,Gold,1180.8,16,4.7,Yes,19,Satisfied,73.8,25-34,Active
+210,Male,34,Los Angeles,Silver,790.2,11,4.0,No,15,Neutral,71.84,25-34,Active
+211,Female,43,Chicago,Bronze,505.75,10,3.3,Yes,39,Unsatisfied,50.58,35-49,At Risk
+212,Male,30,San Francisco,Gold,1470.5,20,4.8,No,13,Satisfied,73.53,25-34,Active
+213,Male,27,Miami,Silver,710.4,13,4.1,Yes,54,Unsatisfied,54.65,25-34,At Risk
+214,Female,37,Houston,Bronze,430.8,7,3.4,No,23,Neutral,61.54,35-49,Active
+215,Female,31,New York,Gold,1140.6,15,4.6,Yes,27,Satisfied,76.04,25-34,Active
+216,Male,35,Los Angeles,Silver,810.9,12,4.3,No,13,Neutral,67.58,25-34,Active
+217,Female,41,Chicago,Bronze,485.25,9,3.6,Yes,39,Unsatisfied,53.92,35-49,At Risk
+218,Male,28,San Francisco,Gold,1500.1,21,4.9,No,10,Satisfied,71.43,25-34,Active
+219,Male,32,Miami,Silver,670.3,10,3.8,Yes,33,Unsatisfied,67.03,25-34,At Risk
+220,Female,36,Houston,Bronze,460.5,8,3.1,No,19,Neutral,57.56,35-49,Active
+221,Female,30,New York,Gold,1190.8,16,4.5,Yes,20,Satisfied,74.42,25-34,Active
+222,Male,33,Los Angeles,Silver,830.75,13,4.2,No,14,Satisfied,63.9,25-34,Active
+223,Female,42,Chicago,Bronze,520.4,9,3.5,Yes,37,Unsatisfied,57.82,35-49,At Risk
+224,Male,29,San Francisco,Gold,1370.2,18,4.7,No,10,Satisfied,76.12,25-34,Active
+225,Male,26,Miami,Silver,690.6,12,3.9,Yes,47,Unsatisfied,57.55,25-34,At Risk
+226,Female,38,Houston,Bronze,440.9,8,3.2,No,24,Neutral,55.11,35-49,Active
+227,Female,32,New York,Gold,1160.3,14,4.4,Yes,22,Satisfied,82.88,25-34,Active
+228,Male,34,Los Angeles,Silver,800.2,11,4.1,No,17,Neutral,72.75,25-34,Active
+229,Female,43,Chicago,Bronze,500.75,10,3.3,Yes,40,Unsatisfied,50.08,35-49,At Risk
+230,Male,30,San Francisco,Gold,1460.5,20,4.8,No,12,Satisfied,73.03,25-34,Active
+231,Male,27,Miami,Silver,700.4,13,4.0,Yes,53,Unsatisfied,53.88,25-34,At Risk
+232,Female,37,Houston,Bronze,420.8,7,3.1,No,21,Neutral,60.11,35-49,Active
+233,Female,31,New York,Gold,1130.6,15,4.5,Yes,26,Satisfied,75.37,25-34,Active
+234,Male,35,Los Angeles,Silver,820.9,12,4.3,No,12,Neutral,68.41,25-34,Active
+235,Female,41,Chicago,Bronze,480.25,9,3.6,Yes,38,Unsatisfied,53.36,35-49,At Risk
+236,Male,28,San Francisco,Gold,1490.1,21,4.9,No,9,Satisfied,70.96,25-34,Active
+237,Male,32,Miami,Silver,680.3,10,3.8,Yes,32,Unsatisfied,68.03,25-34,At Risk
+238,Female,36,Houston,Bronze,470.5,8,3.0,No,18,Neutral,58.81,35-49,Active
+239,Female,30,New York,Gold,1180.8,16,4.7,Yes,19,Satisfied,73.8,25-34,Active
+240,Male,34,Los Angeles,Silver,790.2,11,4.0,No,15,Neutral,71.84,25-34,Active
+241,Female,43,Chicago,Bronze,505.75,10,3.3,Yes,39,Unsatisfied,50.58,35-49,At Risk
+242,Male,30,San Francisco,Gold,1470.5,20,4.8,No,13,Satisfied,73.53,25-34,Active
+243,Male,27,Miami,Silver,710.4,13,4.1,Yes,54,Unsatisfied,54.65,25-34,At Risk
+244,Female,37,Houston,Bronze,430.8,7,3.4,No,23,Neutral,61.54,35-49,Active
+245,Female,31,New York,Gold,1130.6,15,4.5,Yes,26,Satisfied,75.37,25-34,Active
+246,Male,35,Los Angeles,Silver,820.9,12,4.3,No,12,Neutral,68.41,25-34,Active
+247,Female,41,Chicago,Bronze,480.25,9,3.6,Yes,38,Unsatisfied,53.36,35-49,At Risk
+248,Male,28,San Francisco,Gold,1490.1,21,4.9,No,9,Satisfied,70.96,25-34,Active
+249,Male,32,Miami,Silver,680.3,10,3.8,Yes,32,Unsatisfied,68.03,25-34,At Risk
+250,Female,36,Houston,Bronze,470.5,8,3.0,No,18,Neutral,58.81,35-49,Active
+251,Female,30,New York,Gold,1180.8,16,4.7,Yes,19,Satisfied,73.8,25-34,Active
+252,Male,34,Los Angeles,Silver,790.2,11,4.0,No,15,Neutral,71.84,25-34,Active
+253,Female,43,Chicago,Bronze,505.75,10,3.3,Yes,39,Unsatisfied,50.58,35-49,At Risk
+254,Male,30,San Francisco,Gold,1470.5,20,4.8,No,13,Satisfied,73.53,25-34,Active
+255,Male,27,Miami,Silver,710.4,13,4.1,Yes,54,Unsatisfied,54.65,25-34,At Risk
+256,Female,37,Houston,Bronze,430.8,7,3.4,No,23,Neutral,61.54,35-49,Active
+257,Female,31,New York,Gold,1140.6,15,4.6,Yes,27,Satisfied,76.04,25-34,Active
+258,Male,35,Los Angeles,Silver,810.9,12,4.3,No,13,Neutral,67.58,25-34,Active
+259,Female,41,Chicago,Bronze,485.25,9,3.6,Yes,39,Unsatisfied,53.92,35-49,At Risk
+260,Male,28,San Francisco,Gold,1500.1,21,4.9,No,10,Satisfied,71.43,25-34,Active
+261,Male,32,Miami,Silver,670.3,10,3.8,Yes,33,Unsatisfied,67.03,25-34,At Risk
+262,Female,36,Houston,Bronze,460.5,8,3.1,No,19,Neutral,57.56,35-49,Active
+263,Female,30,New York,Gold,1190.8,16,4.5,Yes,20,Satisfied,74.42,25-34,Active
+264,Male,33,Los Angeles,Silver,830.75,13,4.2,No,14,Satisfied,63.9,25-34,Active
+265,Female,42,Chicago,Bronze,520.4,9,3.5,Yes,37,Unsatisfied,57.82,35-49,At Risk
+266,Male,29,San Francisco,Gold,1370.2,18,4.7,No,10,Satisfied,76.12,25-34,Active
+267,Male,26,Miami,Silver,690.6,12,3.9,Yes,47,Unsatisfied,57.55,25-34,At Risk
+268,Female,38,Houston,Bronze,440.9,8,3.2,No,24,Neutral,55.11,35-49,Active
+269,Female,32,New York,Gold,1160.3,14,4.4,Yes,22,Satisfied,82.88,25-34,Active
+270,Male,34,Los Angeles,Silver,800.2,11,4.1,No,17,Neutral,72.75,25-34,Active
+271,Female,43,Chicago,Bronze,500.75,10,3.3,Yes,40,Unsatisfied,50.08,35-49,At Risk
+272,Male,30,San Francisco,Gold,1460.5,20,4.8,No,12,Satisfied,73.03,25-34,Active
+273,Male,27,Miami,Silver,700.4,13,4.0,Yes,53,Unsatisfied,53.88,25-34,At Risk
+274,Female,37,Houston,Bronze,430.8,7,3.4,No,23,Neutral,61.54,35-49,Active
+275,Female,31,New York,Gold,1140.6,15,4.5,Yes,27,Satisfied,76.04,25-34,Active
+276,Male,35,Los Angeles,Silver,820.9,12,4.3,No,12,Neutral,68.41,25-34,Active
+277,Female,41,Chicago,Bronze,480.25,9,3.6,Yes,38,Unsatisfied,53.36,35-49,At Risk
+278,Male,28,San Francisco,Gold,1490.1,21,4.9,No,9,Satisfied,70.96,25-34,Active
+279,Male,32,Miami,Silver,680.3,10,3.8,Yes,32,Unsatisfied,68.03,25-34,At Risk
+280,Female,36,Houston,Bronze,470.5,8,3.0,No,18,Neutral,58.81,35-49,Active
+281,Female,30,New York,Gold,1180.8,16,4.7,Yes,19,Satisfied,73.8,25-34,Active
+282,Male,34,Los Angeles,Silver,790.2,11,4.0,No,15,Neutral,71.84,25-34,Active
+283,Female,43,Chicago,Bronze,505.75,10,3.3,Yes,39,Unsatisfied,50.58,35-49,At Risk
+284,Male,30,San Francisco,Gold,1470.5,20,4.8,No,13,Satisfied,73.53,25-34,Active
+285,Male,27,Miami,Silver,710.4,13,4.1,Yes,54,Unsatisfied,54.65,25-34,At Risk
+286,Female,37,Houston,Bronze,430.8,7,3.4,No,23,Neutral,61.54,35-49,Active
+287,Female,31,New York,Gold,1130.6,15,4.5,Yes,26,Satisfied,75.37,25-34,Active
+288,Male,35,Los Angeles,Silver,820.9,12,4.3,No,13,Neutral,68.41,25-34,Active
+289,Female,41,Chicago,Bronze,485.25,9,3.6,Yes,39,Unsatisfied,53.92,35-49,At Risk
+290,Male,28,San Francisco,Gold,1500.1,21,4.9,No,10,Satisfied,71.43,25-34,Active
+291,Male,32,Miami,Silver,670.3,10,3.8,Yes,33,Unsatisfied,67.03,25-34,At Risk
+292,Female,36,Houston,Bronze,460.5,8,3.1,No,19,Neutral,57.56,35-49,Active
+293,Female,30,New York,Gold,1190.8,16,4.5,Yes,20,Satisfied,74.42,25-34,Active
+294,Male,33,Los Angeles,Silver,830.75,13,4.2,No,14,Satisfied,63.9,25-34,Active
+295,Female,42,Chicago,Bronze,520.4,9,3.5,Yes,37,Unsatisfied,57.82,35-49,At Risk
+296,Male,29,San Francisco,Gold,1370.2,18,4.7,No,10,Satisfied,76.12,25-34,Active
+297,Male,26,Miami,Silver,690.6,12,3.9,Yes,47,Unsatisfied,57.55,25-34,At Risk
+298,Female,38,Houston,Bronze,440.9,8,3.2,No,24,Neutral,55.11,35-49,Active
+299,Female,32,New York,Gold,1160.3,14,4.4,Yes,22,Satisfied,82.88,25-34,Active
+300,Male,34,Los Angeles,Silver,800.2,11,4.1,No,17,Neutral,72.75,25-34,Active
+301,Male,36,San Francisco,Gold,1420.8,19,4.6,No,11,Satisfied,74.78,35-49,Active
+302,Female,29,Miami,Silver,730.4,14,4.0,Yes,50,Unsatisfied,52.17,25-34,At Risk
+303,Female,35,Houston,Bronze,450.6,7,3.3,No,21,Neutral,64.37,25-34,Active
+304,Male,31,New York,Gold,1210.6,17,4.8,Yes,18,Satisfied,71.21,25-34,Active
+305,Male,27,Los Angeles,Silver,780.9,11,4.2,No,16,Neutral,70.99,25-34,Active
+306,Female,42,Chicago,Bronze,495.25,10,3.5,Yes,35,Unsatisfied,49.52,35-49,At Risk
+307,Male,29,San Francisco,Gold,1390.2,18,4.7,No,9,Satisfied,77.23,25-34,Active
+308,Male,26,Miami,Silver,670.6,12,3.9,Yes,46,Unsatisfied,55.88,25-34,At Risk
+309,Female,38,Houston,Bronze,460.9,8,3.2,No,25,Neutral,57.61,35-49,Active
+310,Female,32,New York,Gold,1170.3,14,4.5,Yes,21,Satisfied,83.59,25-34,Active
+311,Male,34,Los Angeles,Silver,810.2,11,4.0,No,14,Neutral,73.65,25-34,Active
+312,Female,43,Chicago,Bronze,515.75,9,3.3,Yes,38,Unsatisfied,57.31,35-49,At Risk
+313,Male,30,San Francisco,Gold,1450.5,20,4.8,No,12,Satisfied,72.53,25-34,Active
+314,Male,27,Miami,Silver,690.4,13,4.1,Yes,52,Unsatisfied,53.11,25-34,At Risk
+315,Female,37,Houston,Bronze,420.8,7,3.4,No,24,Neutral,60.11,35-49,Active
+316,Female,31,New York,Gold,1130.6,15,4.5,Yes,26,Satisfied,75.37,25-34,Active
+317,Male,35,Los Angeles,Silver,820.9,12,4.3,No,13,Neutral,68.41,25-34,Active
+318,Female,41,Chicago,Bronze,480.25,9,3.6,Yes,39,Unsatisfied,53.36,35-49,At Risk
+319,Male,28,San Francisco,Gold,1490.1,21,4.9,No,9,Satisfied,70.96,25-34,Active
+320,Male,32,Miami,Silver,680.3,10,3.8,Yes,32,Unsatisfied,68.03,25-34,At Risk
+321,Female,36,Houston,Bronze,470.5,8,3.0,No,18,Neutral,58.81,35-49,Active
+322,Female,30,New York,Gold,1180.8,16,4.7,Yes,19,Satisfied,73.8,25-34,Active
+323,Male,34,Los Angeles,Silver,790.2,11,4.0,No,15,Neutral,71.84,25-34,Active
+324,Female,43,Chicago,Bronze,505.75,10,3.3,Yes,39,Unsatisfied,50.58,35-49,At Risk
+325,Male,30,San Francisco,Gold,1470.5,20,4.8,No,13,Satisfied,73.53,25-34,Active
+326,Male,27,Miami,Silver,710.4,13,4.1,Yes,54,Unsatisfied,54.65,25-34,At Risk
+327,Female,37,Houston,Bronze,430.8,7,3.4,No,23,Neutral,61.54,35-49,Active
+328,Female,31,New York,Gold,1140.6,15,4.5,Yes,27,Satisfied,76.04,25-34,Active
+329,Male,35,Los Angeles,Silver,820.9,12,4.3,No,13,Neutral,68.41,25-34,Active
+330,Female,41,Chicago,Bronze,485.25,9,3.6,Yes,39,Unsatisfied,53.92,35-49,At Risk
+331,Male,28,San Francisco,Gold,1500.1,21,4.9,No,10,Satisfied,71.43,25-34,Active
+332,Male,32,Miami,Silver,670.3,10,3.8,Yes,33,Unsatisfied,67.03,25-34,At Risk
+333,Female,36,Houston,Bronze,460.5,8,3.1,No,19,Neutral,57.56,35-49,Active
+334,Female,30,New York,Gold,1190.8,16,4.5,Yes,20,Satisfied,74.42,25-34,Active
+335,Male,33,Los Angeles,Silver,830.75,13,4.2,No,14,Satisfied,63.9,25-34,Active
+336,Female,42,Chicago,Bronze,520.4,9,3.5,Yes,37,Unsatisfied,57.82,35-49,At Risk
+337,Male,29,San Francisco,Gold,1370.2,18,4.7,No,10,Satisfied,76.12,25-34,Active
+338,Male,26,Miami,Silver,690.6,12,3.9,Yes,47,Unsatisfied,57.55,25-34,At Risk
+339,Female,38,Houston,Bronze,440.9,8,3.2,No,24,Neutral,55.11,35-49,Active
+340,Female,32,New York,Gold,1160.3,14,4.4,Yes,22,Satisfied,82.88,25-34,Active
+341,Male,34,Los Angeles,Silver,800.2,11,4.1,No,17,Neutral,72.75,25-34,Active
+342,Female,43,Chicago,Bronze,525.75,9,3.3,Yes,40,Unsatisfied,58.42,35-49,At Risk
+343,Male,30,San Francisco,Gold,1460.5,20,4.8,No,11,Satisfied,73.03,25-34,Active
+344,Male,27,Miami,Silver,720.4,13,4.0,Yes,55,Unsatisfied,55.42,25-34,At Risk
+345,Female,37,Houston,Bronze,440.8,7,3.2,No,25,Neutral,62.97,35-49,Active
+346,Female,31,New York,Gold,1150.6,15,4.5,Yes,28,Satisfied,76.71,25-34,Active
+347,Male,35,Los Angeles,Silver,830.9,12,4.3,No,14,Neutral,69.24,25-34,Active
+348,Female,41,Chicago,Bronze,490.25,9,3.6,Yes,40,Unsatisfied,54.47,35-49,At Risk
+349,Male,28,San Francisco,Gold,1480.1,21,4.9,No,10,Satisfied,70.48,25-34,Active
+350,Male,32,Miami,Silver,690.3,10,3.8,Yes,34,Unsatisfied,69.03,25-34,At Risk
+351,Female,36,Houston,Bronze,480.5,8,3.1,No,20,Neutral,60.06,35-49,Active
+352,Female,30,New York,Gold,1170.8,16,4.7,Yes,21,Satisfied,73.18,25-34,Active
+353,Male,34,Los Angeles,Silver,790.2,11,4.0,No,15,Neutral,71.84,25-34,Active
+354,Female,43,Chicago,Bronze,510.75,10,3.3,Yes,41,Unsatisfied,51.08,35-49,At Risk
+355,Male,30,San Francisco,Gold,1440.5,19,4.6,No,12,Satisfied,75.82,25-34,Active
+356,Male,27,Miami,Silver,700.4,13,4.1,Yes,56,Unsatisfied,53.88,25-34,At Risk
+357,Female,37,Houston,Bronze,410.8,7,3.4,No,26,Neutral,58.69,35-49,Active
+358,Female,31,New York,Gold,1160.6,15,4.5,Yes,29,Satisfied,77.37,25-34,Active
+359,Male,35,Los Angeles,Silver,810.9,12,4.3,No,14,Neutral,67.58,25-34,Active
+360,Female,41,Chicago,Bronze,495.25,9,3.6,Yes,41,Unsatisfied,55.03,35-49,At Risk
+361,Male,28,San Francisco,Gold,1490.1,21,4.9,No,10,Satisfied,70.96,25-34,Active
+362,Male,32,Miami,Silver,660.3,10,3.8,Yes,35,Unsatisfied,66.03,25-34,At Risk
+363,Female,36,Houston,Bronze,430.5,8,3.1,No,21,Neutral,53.81,35-49,Active
+364,Female,30,New York,Gold,1200.8,16,4.7,Yes,22,Satisfied,75.05,25-34,Active
+365,Male,34,Los Angeles,Silver,780.2,11,4.1,No,16,Neutral,70.93,25-34,Active
+366,Female,43,Chicago,Bronze,505.75,10,3.3,Yes,42,Unsatisfied,50.58,35-49,At Risk
+367,Male,30,San Francisco,Gold,1460.5,20,4.8,No,13,Satisfied,73.03,25-34,Active
+368,Male,27,Miami,Silver,710.4,13,4.1,Yes,57,Unsatisfied,54.65,25-34,At Risk
+369,Female,37,Houston,Bronze,450.8,7,3.4,No,24,Neutral,64.4,35-49,Active
+370,Female,31,New York,Gold,1140.6,15,4.5,Yes,30,Satisfied,76.04,25-34,Active
+371,Male,35,Los Angeles,Silver,800.9,12,4.1,No,17,Neutral,66.74,25-34,Active
+372,Female,41,Chicago,Bronze,475.25,9,3.6,Yes,42,Unsatisfied,52.81,35-49,At Risk
+373,Male,28,San Francisco,Gold,1480.1,21,4.9,No,11,Satisfied,70.48,25-34,Active
+374,Male,32,Miami,Silver,660.3,10,3.8,Yes,36,Unsatisfied,66.03,25-34,At Risk
+375,Female,36,Houston,Bronze,470.5,8,3.0,No,22,Neutral,58.81,35-49,Active
+376,Female,30,New York,Gold,1190.8,16,4.5,Yes,23,Satisfied,74.42,25-34,Active
+377,Male,33,Los Angeles,Silver,770.2,11,4.2,No,18,Neutral,70.02,25-34,Active
+378,Female,43,Chicago,Bronze,515.75,10,3.3,Yes,43,Unsatisfied,51.58,35-49,At Risk
+379,Male,30,San Francisco,Gold,1450.5,19,4.6,No,12,Satisfied,76.34,25-34,Active
+380,Male,27,Miami,Silver,710.4,13,4.1,Yes,58,Unsatisfied,54.65,25-34,At Risk
+381,Female,37,Houston,Bronze,430.8,7,3.4,No,27,Neutral,61.54,35-49,Active
+382,Female,31,New York,Gold,1160.6,15,4.5,Yes,31,Satisfied,77.37,25-34,At Risk
+383,Male,35,Los Angeles,Silver,820.9,12,4.3,No,15,Neutral,68.41,25-34,Active
+384,Female,41,Chicago,Bronze,495.25,9,3.6,Yes,43,Unsatisfied,55.03,35-49,At Risk
+385,Male,28,San Francisco,Gold,1490.1,21,4.9,No,10,Satisfied,70.96,25-34,Active
+386,Male,32,Miami,Silver,660.3,10,3.8,Yes,37,Unsatisfied,66.03,25-34,At Risk
+387,Female,36,Houston,Bronze,440.5,8,3.1,No,23,Neutral,55.06,35-49,Active
+388,Female,30,New York,Gold,1200.8,16,4.7,Yes,24,Satisfied,75.05,25-34,Active
+389,Male,34,Los Angeles,Silver,780.2,11,4.1,No,16,Neutral,70.93,25-34,Active
+390,Female,43,Chicago,Bronze,505.75,10,3.3,Yes,44,Unsatisfied,50.58,35-49,At Risk
+391,Male,30,San Francisco,Gold,1460.5,20,4.8,No,13,Satisfied,73.03,25-34,Active
+392,Male,27,Miami,Silver,710.4,13,4.1,Yes,59,Unsatisfied,54.65,25-34,At Risk
+393,Female,37,Houston,Bronze,450.8,7,3.4,No,28,Neutral,64.4,35-49,Active
+394,Female,31,New York,Gold,1140.6,15,4.5,Yes,32,Satisfied,76.04,25-34,At Risk
+395,Male,35,Los Angeles,Silver,800.9,12,4.1,No,17,Neutral,66.74,25-34,Active
+396,Female,41,Chicago,Bronze,475.25,9,3.6,Yes,44,Unsatisfied,52.81,35-49,At Risk
+397,Male,28,San Francisco,Gold,1480.1,21,4.9,No,12,Satisfied,70.48,25-34,Active
+398,Male,32,Miami,Silver,660.3,10,3.8,Yes,38,Unsatisfied,66.03,25-34,At Risk
+399,Female,36,Houston,Bronze,470.5,8,3.0,No,22,Neutral,58.81,35-49,Active
+400,Female,30,New York,Gold,1190.8,16,4.5,Yes,25,Satisfied,74.42,25-34,Active
+401,Male,33,Los Angeles,Silver,800.2,11,4.1,No,18,Neutral,72.75,25-34,Active
+402,Female,43,Chicago,Bronze,515.75,10,3.3,Yes,45,Unsatisfied,51.58,35-49,At Risk
+403,Male,30,San Francisco,Gold,1450.5,19,4.6,No,13,Satisfied,76.34,25-34,Active
+404,Male,27,Miami,Silver,710.4,13,4.1,Yes,60,Unsatisfied,54.65,25-34,At Risk
+405,Female,37,Houston,Bronze,430.8,7,3.4,No,29,Neutral,61.54,35-49,Active
+406,Female,31,New York,Gold,1160.6,15,4.5,Yes,33,Satisfied,77.37,25-34,At Risk
+407,Male,35,Los Angeles,Silver,820.9,12,4.3,No,16,Neutral,68.41,25-34,Active
+408,Female,41,Chicago,Bronze,495.25,9,3.6,Yes,45,Unsatisfied,55.03,35-49,At Risk
+409,Male,28,San Francisco,Gold,1490.1,21,4.9,No,11,Satisfied,70.96,25-34,Active
+410,Male,32,Miami,Silver,660.3,10,3.8,Yes,39,Unsatisfied,66.03,25-34,At Risk
+411,Female,36,Houston,Bronze,440.5,8,3.1,No,24,Neutral,55.06,35-49,Active
+412,Female,30,New York,Gold,1200.8,16,4.7,Yes,25,Satisfied,75.05,25-34,Active
+413,Male,34,Los Angeles,Silver,780.2,11,4.1,No,17,Neutral,70.93,25-34,Active
+414,Female,43,Chicago,Bronze,505.75,10,3.3,Yes,46,Unsatisfied,50.58,35-49,At Risk
+415,Male,30,San Francisco,Gold,1460.5,20,4.8,No,14,Satisfied,73.03,25-34,Active
+416,Male,27,Miami,Silver,710.4,13,4.1,Yes,61,Unsatisfied,54.65,25-34,Churned
+417,Female,37,Houston,Bronze,450.8,7,3.4,No,30,Neutral,64.4,35-49,Active
+418,Female,31,New York,Gold,1140.6,15,4.5,Yes,34,Satisfied,76.04,25-34,At Risk
+419,Male,35,Los Angeles,Silver,800.9,12,4.1,No,19,Neutral,66.74,25-34,Active
+420,Female,41,Chicago,Bronze,475.25,9,3.6,Yes,46,Unsatisfied,52.81,35-49,At Risk
+421,Male,28,San Francisco,Gold,1480.1,21,4.9,No,12,Satisfied,70.48,25-34,Active
+422,Male,32,Miami,Silver,660.3,10,3.8,Yes,40,Unsatisfied,66.03,25-34,At Risk
+423,Female,36,Houston,Bronze,470.5,8,3.0,No,26,Neutral,58.81,35-49,Active
+424,Female,30,New York,Gold,1190.8,16,4.5,Yes,27,Satisfied,74.42,25-34,Active
+425,Male,34,Los Angeles,Silver,780.2,11,4.2,No,18,Neutral,70.93,25-34,Active
+426,Female,43,Chicago,Bronze,515.75,10,3.3,Yes,47,Unsatisfied,51.58,35-49,At Risk
+427,Male,30,San Francisco,Gold,1450.5,19,4.6,No,14,Satisfied,76.34,25-34,Active
+428,Male,27,Miami,Silver,710.4,13,4.1,Yes,62,Unsatisfied,54.65,25-34,Churned
+429,Female,37,Houston,Bronze,430.8,7,3.4,No,31,Neutral,61.54,35-49,At Risk
+430,Female,31,New York,Gold,1160.6,15,4.5,Yes,35,Satisfied,77.37,25-34,At Risk
+431,Male,35,Los Angeles,Silver,820.9,12,4.3,No,20,Neutral,68.41,25-34,Active
+432,Female,41,Chicago,Bronze,495.25,9,3.6,Yes,47,Unsatisfied,55.03,35-49,At Risk
+433,Male,28,San Francisco,Gold,1490.1,21,4.9,No,11,Satisfied,70.96,25-34,Active
+434,Male,32,Miami,Silver,660.3,10,3.8,Yes,41,Unsatisfied,66.03,25-34,At Risk
+435,Female,36,Houston,Bronze,440.5,8,3.1,No,28,Neutral,55.06,35-49,Active
+436,Female,30,New York,Gold,1200.8,16,4.7,Yes,28,Satisfied,75.05,25-34,Active
+437,Male,34,Los Angeles,Silver,780.2,11,4.1,No,19,Neutral,70.93,25-34,Active
+438,Female,43,Chicago,Bronze,505.75,10,3.3,Yes,48,Unsatisfied,50.58,35-49,At Risk
+439,Male,30,San Francisco,Gold,1460.5,20,4.8,No,15,Satisfied,73.03,25-34,Active
+440,Male,27,Miami,Silver,710.4,13,4.1,Yes,63,Unsatisfied,54.65,25-34,Churned
+441,Female,37,Houston,Bronze,450.8,7,3.4,No,32,Neutral,64.4,35-49,At Risk
+442,Female,31,New York,Gold,1140.6,15,4.5,Yes,36,Satisfied,76.04,25-34,At Risk
+443,Male,35,Los Angeles,Silver,800.9,12,4.1,No,20,Neutral,66.74,25-34,Active
+444,Female,41,Chicago,Bronze,475.25,9,3.6,Yes,48,Unsatisfied,52.81,35-49,At Risk
+445,Male,28,San Francisco,Gold,1480.1,21,4.9,No,13,Satisfied,70.48,25-34,Active
+446,Male,32,Miami,Silver,660.3,10,3.8,Yes,42,Unsatisfied,66.03,25-34,At Risk
+447,Female,36,Houston,Bronze,470.5,8,3.0,No,27,Neutral,58.81,35-49,Active
+448,Female,30,New York,Gold,1190.8,16,4.5,Yes,28,Satisfied,74.42,25-34,Active
+449,Male,34,Los Angeles,Silver,780.2,11,4.2,No,21,Neutral,70.93,25-34,Active
+450,Female,43,Chicago,Bronze,515.75,10,3.3,Yes,49,Unsatisfied,51.58,35-49,At Risk
